@@ -1,0 +1,110 @@
+Name: Pritam Das
+Role: B.Tech Computer Science and Engineering Student
+
+Summary:
+Detail-oriented Computer Science student with hands-on experience in full stack web development, responsive web design, and cybersecurity fundamentals. Skilled in building secure and scalable web applications and experienced in remote internship environments.
+
+Contact Information:
+Location: Burdwan, West Bengal, India
+Email: iampritamdas04@gmail.com
+Phone: +91-9883214531
+Portfolio: https://itspritamdas.github.io/Pritam-Porfolio/
+GitHub: https://github.com/itsPritamDas
+LinkedIn: https://www.linkedin.com/in/pritam-das-0a52722b0/
+
+Education:
+- Bachelor of Technology (B.Tech) in Computer Science and Engineering
+  Institution: JIS University, Kolkata, West Bengal
+  Status: Pre-final year student
+  Expected Graduation: July 2027
+
+- Bachelor of Science (B.Sc) in Zoology (Honours)
+  Institution: The University of Burdwan
+  Status: Completed 1st Year
+  Duration: 2021–2022
+
+- Higher Secondary (PCMB)
+  Board: WBCHSE
+  Institution: Chhotobainan High School (H.S)
+  Percentage: 86.2%
+  Year: 2019–2021
+
+- Secondary (Madhyamik)
+  Board: WBBSE
+  Institution: Kamarhati S.N. High School (H.S)
+  Percentage: 82%
+  Year: 2014–2019
+
+Work Experience:
+- Full Stack Web Development Intern
+  Company: Unified Mentor Pvt Ltd
+  Duration: 01 July 2025 – 01 October 2025
+  Location: Remote, India
+  Responsibilities:
+  - Developed responsive web pages using HTML, CSS, and JavaScript
+  - Implemented security measures such as encryption and firewalls
+  - Contributed to real-world web development projects in a remote team
+
+Technical Skills:
+Programming Languages:
+- C, C++, Python, Java
+
+Web Technologies:
+- HTML5, CSS3, JavaScript
+
+Frontend:
+- Responsive Web Design
+
+Backend Basics:
+- APIs, Authentication
+
+Cybersecurity:
+- Encryption, Firewalls, Networking Fundamentals
+
+Tools & Platforms:
+- Git, GitHub
+
+Software Testing:
+- Manual Testing, Debugging
+
+Core Computer Science:
+- Data Structures, Problem Solving
+
+Projects:
+1. Farmer Government Aided Schemes (KRISHAK SATHI)
+   - Web application for farmers to access government agricultural schemes
+   - Features application tracking and crop-related information
+   - Technologies: HTML, CSS, JavaScript, Firebase
+   - GitHub: https://github.com/itsPritamDas/-Farmer-Government-Aided-Schemes-KRISHAK-SATHI-
+   - Live Demo: https://itspritamdas.github.io/-Farmer-Government-Aided-Schemes-KRISHAK-SATHI-/
+
+2. Student–Teacher Booking Appointment System (Guru Vandan)
+   - Online system to schedule academic appointments efficiently
+   - Technologies: HTML, CSS, JavaScript, Firebase
+   - GitHub: https://github.com/itsPritamDas/Guru_Vandan
+   - Live Demo: https://itspritamdas.github.io/Guru_Vandan/
+
+3. Virtual Art Gallery
+   - Interactive digital art gallery showcasing themed artworks including original art
+   - Technologies: HTML, CSS, JavaScript
+   - GitHub: https://github.com/itsPritamDas/Pritam-s-Virtual-Art-Gallery
+   - Live Demo: https://itspritamdas.github.io/Pritam-s-Virtual-Art-Gallery/
+
+Certifications:
+- Introduction to Networking for Cyber Professionals – Zscaler
+- Cyber Security and Applied Ethical Hacking – Infosys
+- Programming in Java – NPTEL (IIT Kharagpur)
+- Gen AI Study Jam – Google (GDG On Campus JISU)
+- Google Cloud Skill Boost (App Engine, Cloud Functions, Speech API)
+- Tata Cybersecurity Analyst Job Simulation
+- Deloitte Australia Cyber Job Simulation
+- Diploma in Computer Application (Govt. of India – HRD)
+
+Activities:
+- Student Member, Indian Society for Technical Education (ISTE), tenure 2025–2028
+- Poster presentation on "Face Recognition Based Attendance System" at JIS University symposium (June 19, 2025)
+
+Languages:
+- English (Fluent)
+- Bengali (Native)
+- Hindi (Basic)
